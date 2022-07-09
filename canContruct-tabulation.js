@@ -24,6 +24,10 @@ console.log(
     "eee",
     "eeee",
     "eeeee",
+    "eeeeee",
+    "eeeeeee",
+    "eeeeeeee",
+    "eeeeeeeee",
   ]),
 ); // => false
 console.log(canConstruct("skateboard", ["bo", "rd", "ate"])); // => false

@@ -24,5 +24,11 @@ console.log(
     "eee",
     "eeee",
     "eeeee",
+    "eeeeee",
+    "eeeeeee",
+    "eeeeeeee",
+    "eeeeeeeee",
+    "eeeeeeeeee",
+    "eeeeeeeeeee",
   ]),
 ); // => false

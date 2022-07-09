@@ -24,5 +24,7 @@ console.log(
     "eee",
     "eeee",
     "eeeee",
-  ]),
+    "eeeeee",
+    "eeeeeee",
+  ])
 ); // => 0
